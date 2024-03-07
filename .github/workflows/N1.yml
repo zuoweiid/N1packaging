@@ -14,7 +14,7 @@ on:
   schedule:
     - cron: 30 23 * * *      
 env:
-  UPLOAD_COWTRANSFER: false
+  UPLOAD_COWTRANSFER: true
   RELEASE: true
   TZ: Asia/Shanghai
 
